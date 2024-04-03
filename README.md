@@ -9,7 +9,7 @@ Olá! Me chamo Rodolfo é um prazer tê-lo aqui!
 Atuo como professor em cursos de graduação e técnico em  desenvolvimento de sistemas. 
 
 ## Outras seções comuns em perfis do GitHub
-👩‍💻 Trabalho Atualmente SENAC
+👩‍💻 Trabalho Atualmente em formação de futuros programadores
 🧠 Gosto de estudar muitas coisas
 👯‍♀️ Procuro colaborar sempre
 🤔 Procuro ajuda sempre debugado código
