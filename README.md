@@ -1,4 +1,3 @@
-
 ## 🚀 Sobre mim
 Profissional com experiência no desenvolvimento de soluções Full Stack. Minha principal paixão é o ensino e pesquisa atuando como Professor de Desenvolvimento de Sistemas.
 
@@ -25,5 +24,7 @@ Profissional com experiência no desenvolvimento de soluções Full Stack. Minha
 </div>
 
 ## Contatos:
-rodolfo.gsilva@outlook.com
+<a href="mailto:rodolfo.gsilva@outlook.com">
+  <img src="https://img.shields.io/badge/Email-rodolfo.gsilva@outlook.com-blue?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email" />
+</a>
 
