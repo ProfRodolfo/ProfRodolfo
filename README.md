@@ -1,12 +1,12 @@
 
-# Olá, eu sou a Rodolfo! 👋
-
-
 ## 🚀 Sobre mim
-Olá! Me chamo Rodolfo é um prazer tê-lo aqui!
+Profissional com experiência no desenvolvimento de soluções Full Stack. Minha principal paixão é o ensino e pesquisa atuando como Professor de Desenvolvimento de Sistemas.
 
 ## 🛠 Habilidades
-Atuo como professor em cursos de graduação e técnico em  desenvolvimento de sistemas. 
+- Desenvolvimento Full Stack (Node.js, React, Typescript, C#, .NET)
+- Tecnologias Educacionais (Edtech, Inteligência Artificial aplicada à Educação)
+- Tutoria e Mediação de Aprendizagem em Educação a Distância
+
 
 ## Outras seções comuns em perfis do GitHub
 👩‍💻 Trabalho Atualmente em formação de futuros programadores
@@ -19,15 +19,11 @@ Atuo como professor em cursos de graduação e técnico em  desenvolvimento de s
 ⚡️ Fatos engraçados, sou vegetariano e amo comida vegana! 
 
 
-## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://https://github.com/ProfRodolfo/)
 
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodolfo-goncalves-silva/) 
+</div>
 
 ## Contatos:
-
-<div>
-<a href="www.youtube.com/canaldorodox2332" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-<a href = "mailto:rodolfo.gsilva2@senacsp.edu.br"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="[https://www.linkedin.com/in/rodolfo-goncalves-silva" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
+rodolfo.gsilva@outlook.com
 
